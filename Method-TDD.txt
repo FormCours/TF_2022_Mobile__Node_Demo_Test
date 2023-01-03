@@ -1,0 +1,12 @@
+1) Ecrire un test
+
+2) Verrifier que le test plante
+
+3) Implementer la fonctionnalité
+
+4) Verrifier que le test fonction
+    -> Si le test plante, retour à l'etape 3
+
+5) Refactoriser le code
+
+6) Verrifier que le test fonction
